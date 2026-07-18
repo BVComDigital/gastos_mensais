@@ -1,0 +1,15 @@
+# Django Settings
+DJANGO_SECRET_KEY=*alterar a cada projeto
+DJANGO_ALLOWED_HOSTS=change-me
+	
+DEBUG=change-me
+
+# Postgre
+POSTGRES_USER=change-mePOSTGRES_PASSWORD=change-me
+POSTGRES_DB=change-me
+	
+# Django DatabaseDB_NAME=change-me
+DB_USER=change-me
+xDB_PASSWORD=change-me
+DB_HOST=change-me
+DB_PORT=change-me
